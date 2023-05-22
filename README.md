@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GaryB93
-- 👀 I’m interested in web development and software programming.
-- 🌱 I’m currently looking for opportunities in the IT industry to jumpstart my career.
-- 💞️ I’m looking to collaborate on any web developement or software projects to develop my knowledge.
+- 👀 I’m interested in web development and software engineering.
+- 🌱 I’m currently looking for opportunities as a software engineer.
+- 💞️ I’m looking to collaborate on any web developement or software projects.
 - 📫 How to reach me: garybalogh93@gmail.com
 
 <!---
