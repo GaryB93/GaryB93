@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @GaryB93
-- 👀 I’m interested in web development and software engineering.
-- 🌱 I’m currently looking for opportunities as a software engineer.
-- 💞️ I’m looking to collaborate on any web developement or software projects.
-- 📫 How to reach me: garybalogh93@gmail.com
+Full Stack Software Engineer with a passion to contribute to and build robust scalable applications with skills in JavaScript/TypeScript, React, Redux, Node/Express, and NoSQL/SQL databases.
 
 <!---
 GaryB93/GaryB93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
