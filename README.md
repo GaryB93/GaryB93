@@ -1,7 +1,7 @@
 
 
 # About Me
-Hello, I'm a Software Engineer with a passion robust scalable applications with skills in JavaScript/TypeScript, React, Redux, Node/Express, and NoSQL/SQL databases.
+Hello, I'm a Software Engineer with a passion to problem solve and build robust and scalable applications with skills in JavaScript/TypeScript, React, Redux, Node/Express, and NoSQL/SQL databases just to name a few.
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -29,3 +29,10 @@ Hello, I'm a Software Engineer with a passion robust scalable applications with 
 
 ### Let's Connect
 <a href='https://www.linkedin.com/in/garybalogh/'><img src='https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white'></a>
+
+### Interests
+🧗‍♂️ Rock Climbing
+🥾 Hiking
+🌳 Outdoors
+🎾 Tennis
+🏓 Pickleball
