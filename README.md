@@ -1,5 +1,9 @@
-![Header](./github-header.png)
+<img src='./github-header.png' width=100%>
 
+# About Me
+Hello, I'm a Software Engineer with a passion robust scalable applications with skills in JavaScript/TypeScript, React, Redux, Node/Express, and NoSQL/SQL databases.
+
+# Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![Node](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -17,6 +21,3 @@
 ![Electron](https://img.shields.io/badge/Electron-47848F.svg?style=for-the-badge&logo=Electron&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/RTL-E9113B.svg?style=for-the-badge&logo=RTL&logoColor=white)
-
-
-Hello, I'm a Software Engineer with a passion robust scalable applications with skills in JavaScript/TypeScript, React, Redux, Node/Express, and NoSQL/SQL databases.
