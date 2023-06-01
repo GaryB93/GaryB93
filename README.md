@@ -1,4 +1,4 @@
-<img src='./github-header.png' width=100%>
+<img src='./github-banner.png' >
 
 # About Me
 Hello, I'm a Software Engineer with a passion robust scalable applications with skills in JavaScript/TypeScript, React, Redux, Node/Express, and NoSQL/SQL databases.
