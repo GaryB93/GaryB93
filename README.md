@@ -36,3 +36,6 @@ Hello, I'm a Software Engineer with a passion to problem solve and build robust 
 🌳 Outdoors
 🎾 Tennis
 🏓 Pickleball
+🎲 Board Games
+🥗 Health
+🧘‍♂️ Minimalism
