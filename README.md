@@ -1,7 +1,11 @@
 <img src="https://github.com/GaryB93/GaryB93/blob/main/Gary%20Balogh.png">
 
 # About Me
-I'm a Full Stack Developer with a passion to problem solve and build robust and scalable applications with skills in JavaScript/TypeScript, React, Redux, Node, and NoSQL/SQL databases just to name a few.
+I'm Gary, a full-stack developer with the drive to solve complex problems and build scalable applications utilizing my skills in JavaScript, TypeScript, React, Node, and SQL/NoSQL databases.
+
+🔭 I’m currently working on [AptPortal](https://github.com/GaryB93/AptPortal)
+🌱 I’m currently learning AWS
+⚡ I'd like to learn Java/Spring
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
