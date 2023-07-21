@@ -1,7 +1,7 @@
-<img src="https://github.com/GaryB93/GaryB93/blob/main/Gary%20Balogh%20(1).png">
+<img src="https://github.com/GaryB93/GaryB93/blob/main/Gary%20Balogh.png">
 
 # About Me
-Hello, I'm a Software Engineer with a passion to problem solve and build robust and scalable applications with skills in JavaScript/TypeScript, React, Redux, Node/Express, and NoSQL/SQL databases just to name a few.
+I'm a Full Stack Developer with a passion to problem solve and build robust and scalable applications with skills in JavaScript/TypeScript, React, Redux, Node, and NoSQL/SQL databases just to name a few.
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
