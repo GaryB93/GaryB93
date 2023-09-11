@@ -3,9 +3,7 @@
 # About Me
 I'm Gary, a full-stack developer with the drive to solve complex problems and build scalable applications utilizing my skills in JavaScript, TypeScript, React, Node, and SQL/NoSQL databases.
 
-- 🔭 I’m currently working on [AptPortal](https://github.com/GaryB93/AptPortal)
-- 🌱 I’m currently learning AWS
-- ⚡ I'd like to learn Java/Spring
+- 🔭 I’m currently working with One Community Global
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
