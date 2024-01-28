@@ -3,8 +3,6 @@
 # About Me
 I'm Gary, a full-stack developer with the drive to solve complex problems and build scalable applications utilizing my skills in JavaScript, TypeScript, React, Node, and SQL/NoSQL databases.
 
-- 🔭 I’m currently working with One Community Global
-
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
