@@ -1,6 +1,4 @@
-<img src="https://github.com/GaryB93/GaryB93/blob/main/Gary%20Balogh.png">
-
-# About Me
+# About
 I'm a full-stack developer with the drive to solve complex problems and build scalable applications utilizing my skills in JavaScript, TypeScript, React, Node, and SQL/NoSQL databases.
 
 ## Tech Stack
