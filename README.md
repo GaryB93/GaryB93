@@ -1,7 +1,7 @@
 <img src="https://github.com/GaryB93/GaryB93/blob/main/Gary%20Balogh.png">
 
 # About Me
-I'm Gary, a full-stack developer with the drive to solve complex problems and build scalable applications utilizing my skills in JavaScript, TypeScript, React, Node, and SQL/NoSQL databases.
+I'm a full-stack developer with the drive to solve complex problems and build scalable applications utilizing my skills in JavaScript, TypeScript, React, Node, and SQL/NoSQL databases.
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -29,13 +29,3 @@ I'm Gary, a full-stack developer with the drive to solve complex problems and bu
 
 ### Let's Connect
 <a href='https://www.linkedin.com/in/garybalogh/'><img src='https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white'></a>
-
-### Interests
-🧗‍♂️ Rock Climbing
-🥾 Hiking
-🌳 Outdoors
-🎾 Tennis
-🏓 Pickleball
-🎲 Board Games
-🥗 Health
-🧘‍♂️ Minimalism
